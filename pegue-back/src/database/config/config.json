@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "PL",
+    "host": "localhost",
+    "port":6666,
+    "dialect": "postgres",
+    "define":{
+      "timestamps":true
+    }
+  }
+}
